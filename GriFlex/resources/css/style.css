@@ -115,6 +115,7 @@ header .mobile {
     background-color: #0b8bc2;
     line-height: 1.6;
     color: white;
+    margin-right: 1.5rem;
   }
 }
 
@@ -189,6 +190,7 @@ header .mobile {
     height: auto;
     background-color: transparent;
     border: none;
+    padding: 0;
   }
 
   #sign-up-cta .content {
